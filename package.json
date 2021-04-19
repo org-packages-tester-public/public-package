@@ -1,0 +1,8 @@
+{
+  "name": "@org-packages-tester-private/public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:org-packages-tester-public/public-package.git",
+  "author": "Mykola Harmash <mykola.harmash@sumup.com>",
+  "license": "MIT"
+}
